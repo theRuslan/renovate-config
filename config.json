@@ -4,5 +4,10 @@
     "config:base",
     "config:security",
     ":assignee(theRuslan)"
+  ],
+  "automerge": false,
+  "labels": [
+    "renovate",
+    "dependencies"
   ]
 }
